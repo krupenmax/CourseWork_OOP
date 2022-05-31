@@ -1,0 +1,15 @@
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\bin\Debug\MusicPlayer2.exe.config
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\bin\Debug\MusicPlayer2.exe
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\bin\Debug\MusicPlayer2.pdb
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\bin\Debug\GenericParsing.dll
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\bin\Debug\GenericParsing.xml
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\obj\Debug\MusicPlayer2.csprojAssemblyReference.cache
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\obj\Debug\MusicPlayer2.Properties.Resources.resources
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\obj\Debug\MusicPlayer2.LoginForm.resources
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\obj\Debug\MusicPlayer2.csproj.GenerateResource.cache
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\obj\Debug\MusicPlayer2.csproj.CoreCompileInputs.cache
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\obj\Debug\MusicPlayer2.csproj.CopyComplete
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\obj\Debug\MusicPlayer2.exe
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\obj\Debug\MusicPlayer2.pdb
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\obj\Debug\MusicPlayer2.RegisterForm.resources
+C:\Users\GoodWin\source\repos\MusicPlayer2\MusicPlayer2\obj\Debug\MusicPlayer2.MainForm.resources
